@@ -95,6 +95,7 @@ $translations = include "lang/$lang.php";
             <h2><?= $translations['contact']['title'] ?></h2>
             <p><?= $translations['contact']['email'] ?>: <a href="mailto:alexandre.debrou.pro@gmail.com">alexandre.debrou.pro@gmail.com</a></p>
             <p><?= $translations['contact']['linkedin'] ?>: <a href="https://www.linkedin.com/in/alexandre-de-brou" target="_blank">linkedin.com/in/alexandre-de-brou</a></p>
+            <p><?= $translations['contact']['github'] ?>: <a href="https://github.com/DB-Alexandre" taget="_blank">github.com/DB-Alexandre</p>
         </section>
     </main>
     <footer>
