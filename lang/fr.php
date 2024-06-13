@@ -81,5 +81,5 @@ return [
         'phone' => 'Téléphone',
         'linkedin' => 'LinkedIn'
     ],
-    'footer' => '&copy; 2024 Alexandre de BROU. Tous droits réservés.'
+    'footer' => '&copy; 2024 Alexandre de BROU. Tous droits réservés. Fait par Alexandre de BROU.'
 ];
