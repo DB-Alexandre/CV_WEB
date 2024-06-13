@@ -79,7 +79,8 @@ return [
         'title' => 'Contact',
         'email' => 'Email',
         'phone' => 'Téléphone',
-        'linkedin' => 'LinkedIn'
+        'linkedin' => 'LinkedIn',
+        'github' => 'Github'
     ],
     'footer' => '&copy; 2024 Alexandre de BROU. Tous droits réservés. Fait par Alexandre de BROU.'
 ];
