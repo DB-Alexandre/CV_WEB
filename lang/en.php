@@ -81,5 +81,5 @@ return [
         'phone' => 'Phone',
         'linkedin' => 'LinkedIn'
     ],
-    'footer' => '&copy; 2024 Alexandre de BROU. All rights reserved.'
+    'footer' => '&copy; 2024 Alexandre de BROU. All rights reserved. Made by Alexandre de BROU.'
 ];
